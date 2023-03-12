@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2365d37c70c5c347b3b6d2282aca6e7, type: 3}
+  m_Name: PlayerWalk
+  m_EditorClassIdentifier: 
+  audioClips:
+  - {fileID: 8300000, guid: ea42ea09adbaa4d418914cfe9241dd18, type: 3}
+  - {fileID: 8300000, guid: 2c387a9eba2c31c4c990c0102554bf81, type: 3}
+  - {fileID: 8300000, guid: 133a2973ca927db4190ccf8764f8ae15, type: 3}
+  - {fileID: 8300000, guid: c79aa33fed7933e44819364b260b3083, type: 3}
+  mixerGroup: {fileID: -4759314601935110124, guid: 9913d9520f28baa4cbbb19366c09c2fb, type: 2}
+  doLoopClip: 0
+  volume: 0.169
+  doRandomizePitch: 1
+  pitchRange: 0.05
